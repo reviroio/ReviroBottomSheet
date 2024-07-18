@@ -9,7 +9,7 @@
 #### SPM
 Add this url in XCode > File > Swift Packages > Add Package Dependency:
 ```
-https://github.com/reviroio/ReviroBottomSheet/tree/main
+https://github.com/reviroio/ReviroBottomSheet
 ```
 
 ## Author
